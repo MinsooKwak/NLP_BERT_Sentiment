@@ -68,7 +68,9 @@ https://aihub.or.kr/aidata/7978 </br></br>
 
 --------
 
-### 참고자료:
+### 참고자료: </br>
+
+- 아래 참고자료를 참조하여 Bert모델을 변형하여 사용함
 
 seoungtaemoon, Sentiment Analysis with BERT, (2021), GitHub repository,
 https://github.com/seungtaemoon/Portfolio/tree/master/Sentiment%20Analysis%20with%20BERT
